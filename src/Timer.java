@@ -7,7 +7,7 @@ public class Timer extends Thread{
 
 
     Date begin = new Date();
-public static int timeInSec;
+volatile public static int timeInSec;
     @Override
     public void run() {
       while(true){
