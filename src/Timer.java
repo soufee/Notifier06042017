@@ -1,7 +1,7 @@
 import java.util.Date;
 
 /**
- * Created by Shoma on 06.04.2017.
+ * Создано Ашамазом Шомаховым
  */
 public class Timer extends Thread{
 
